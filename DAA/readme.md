@@ -1,2 +1,2 @@
-#DAA LAB
-Solution of DAA lab assignments in C and C++
+# DAA LAB
+-Solution of DAA lab assignments in C and C++
